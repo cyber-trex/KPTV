@@ -1,7 +1,7 @@
 {
   "name": "DANUWA-MD",
   "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
+  "logo": "https://github.com/cyber-trex/KPTV/blob/main/IMAGES/1763205129143.jpg?raw=true",
   "keywords": ["DANUWA-MD"],
   "success_url": "/",
 
@@ -12,7 +12,7 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://github.com/cyber-trex/KPTV/blob/main/IMAGES/1763205129143.jpg?raw=true",
       "required": true
     },
     
